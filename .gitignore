@@ -330,5 +330,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # Local
-movielens/
-wdi/
+local/
